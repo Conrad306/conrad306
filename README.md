@@ -14,6 +14,7 @@ I enjoy minecraft modding and api development.
 
 # Contacts 
 Discord: Conrad306#9712
+
 [Twitter](https://twitter.com/Conrad_306)
 
 # Check out some of my current open-source projects!
