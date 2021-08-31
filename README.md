@@ -9,8 +9,10 @@ I'm Conrad36, I'm a Discord.js Programmer and i am currently working on a
 **Website**
 
 ## Main things i do
+
 I program in C++, JS, TS, Dart, and a small bit of shell programming. 
 I enjoy minecraft modding and api development. 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=onedark)](https://github.com/conrad36)
 
 # Contacts 
 Discord: Conrad306#9712
