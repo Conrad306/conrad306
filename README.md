@@ -21,4 +21,3 @@ Discord: Conrad306#9712
 
 # Check out some of my current open-source projects!
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=conrad36&repo=phentixengine&theme=dark&hide_border=true)](https://github.com/Conrad36/PhentixEngine)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=conrad36&repo=discord.cc&theme=dark&hide_border=true)](https://github.com/Conrad36/Discord.cc)
