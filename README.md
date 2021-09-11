@@ -12,7 +12,7 @@ I'm Conrad36, I'm a Discord.js Programmer and i am currently working on a
 
 I program in C++, JS, TS, Dart, and a small bit of shell programming. 
 I enjoy minecraft modding and api development. 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=conrad36&layout=compact&theme=onedark&hide_border=true&title_color=fff)](https://github.com/conrad36)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=conrad36&layout=compact&theme=onedark&hide_border=true&title_color=fff)](https://github.com/conrad36) -->
 
 # Contacts 
 Discord: Conrad306#9712
