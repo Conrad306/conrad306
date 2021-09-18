@@ -19,3 +19,6 @@ Discord: Conrad306#9712
 
 [Twitter](https://twitter.com/Conrad_306)
 
+
+# Check Out One Of My Current Projects
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phentix&repo=phentix&theme=dark&hide_border=true)](https://github.com/Phentix/Phentix)
