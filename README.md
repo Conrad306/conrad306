@@ -1,5 +1,6 @@
 ## About Me
-Hi, I'm Conrad306. I'm a full-stack and api developer. Currently working on a discord bot set and dashboard, as well as a react native project.  
+[PolyWork](https://polywork.com/Conrad306)
+Full-stack web developer and TypeScript enthusiast. 
 ## Projects
 I am a member of [TeamNorden](https://github.com/TeamNorden), a discord bot network and dashboard. 
 Other personal projects: 
