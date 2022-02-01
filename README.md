@@ -1,3 +1,4 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Conrad306)
 ## About Me
 [PolyWork](https://polywork.com/Conrad306)
 
@@ -33,8 +34,7 @@ With more projects on the way.
 
 ## Contacts
 I'm frequently on Discord. You can contact me through discord @ Conrad306#0001
-Twitter - @Conrad306
-Email me @ conrad36github@gmail.com
 
-## Support 
-I don't expect anything honestly, but if you want to support me and what I do, you can [buy me a coffee with Ko-Fi](https://ko-fi.com/Conrad306/).
+Twitter - @Conrad306
+
+Email me @ conrad36github@gmail.com
