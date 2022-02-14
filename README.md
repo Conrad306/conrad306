@@ -17,8 +17,9 @@ Languages I work with:
   - (Learning) Rust.
  
 Frameworks I work with: 
-  - React / React Native / NextJS. 
+  - React / NextJS. 
   - DiscordJS.
+  - Flutter / Dart.
 ## Projects
 I am a member of [TeamNorden](https://github.com/TeamNorden), a discord bot network and dashboard. 
 Other personal projects: 
