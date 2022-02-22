@@ -35,6 +35,6 @@ With more projects on the way.
 
 ## Contacts
 I'm frequently on [Discord](https://discord.com/users/403668506287144981). Contact me there.
-Twitter - (@Conrad306)[https://twitter.com/Conrad306/]
+On Twitter - [@Conrad306](https://twitter.com/Conrad306/)
 
 Email me @ conrad36github@gmail.com
