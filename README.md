@@ -34,8 +34,7 @@ With more projects on the way.
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=conrad306&include_all_commits=true&theme=dark&hide_border=true)
 
 ## Contacts
-I'm frequently on Discord. You can contact me through discord @ Conrad306#0001
-
-Twitter - @Conrad306
+I'm frequently on [Discord](https://discord.com/users/403668506287144981). Contact me there.
+Twitter - (@Conrad306)[https://twitter.com/Conrad306/]
 
 Email me @ conrad36github@gmail.com
