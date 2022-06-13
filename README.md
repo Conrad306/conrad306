@@ -21,8 +21,7 @@ Frameworks I work with:
   - DiscordJS.
   - Flutter / Dart.
 ## Projects
-I am a member of [TeamNorden](https://github.com/TeamNorden), a discord bot network and dashboard. 
-Other personal projects: 
+Some personal projects: 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=conrad306&repo=site&theme=dark&hide_border=true)](https://github.com/conrad306/site)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=conrad306&repo=gitbot&theme=dark&hide_border=true)](https://github.com/conrad306/gitbot)
 
